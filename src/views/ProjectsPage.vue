@@ -4,8 +4,8 @@
   <div class="min-h-[calc(100vh-64px)] bg-gradient-to-br from-black via-gray-900 to-black">
     <div class="max-w-6xl mx-auto px-6 sm:px-12 py-20">
       <!-- Page title -->
-      <div class="mb-12">
-        <h1 class="text-5xl sm:text-6xl font-bold text-white mb-4">My Projects</h1>
+      <div class="pb-12">
+        <h1 class="text-5xl sm:text-6xl font-bold text-white pb-4">My Projects</h1>
         <div class="h-1 w-20 bg-gradient-to-r from-green-500 to-green-600 rounded"></div>
       </div>
 

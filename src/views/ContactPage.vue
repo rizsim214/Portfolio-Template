@@ -61,22 +61,22 @@ const handleSubmit = () => {
               Thanks for your message! I'll get back to you soon.
             </div>
 
-            <div>
-              <label for="name" class="block text-sm font-medium text-white mb-2">Name</label>
+            <div class="py-1">
+              <label for="name" class="block text-sm font-medium text-white pb-2">Name</label>
               <input id="name" v-model="formData.name" type="text" required
                 class="w-full bg-white/5 border border-white/10 rounded-lg px-4 py-3 text-white placeholder-gray-500 focus:outline-none focus:border-green-500 transition-colors"
                 placeholder="Your name" />
             </div>
 
-            <div>
-              <label for="email" class="block text-sm font-medium text-white mb-2">Email</label>
+            <div class="py-1">
+              <label for="email" class="block text-sm font-medium text-white pb-2">Email</label>
               <input id="email" v-model="formData.email" type="email" required
                 class="w-full bg-white/5 border border-white/10 rounded-lg px-4 py-3 text-white placeholder-gray-500 focus:outline-none focus:border-green-500 transition-colors"
                 placeholder="your@email.com" />
             </div>
 
-            <div>
-              <label for="message" class="block text-sm font-medium text-white mb-2">Message</label>
+            <div class="py-1">
+              <label for="message" class="block text-sm font-medium text-white pb-2">Message</label>
               <textarea id="message" v-model="formData.message" required rows="5"
                 class="w-full bg-white/5 border border-white/10 rounded-lg px-4 py-3 text-white placeholder-gray-500 focus:outline-none focus:border-green-500 transition-colors resize-none"
                 placeholder="Your message..."></textarea>
