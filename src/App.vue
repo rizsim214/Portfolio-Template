@@ -4,16 +4,17 @@ import PortfolioFooter from '@/components/common/Footer/PortfolioFooter.vue'
 </script>
 
 <template>
-  <PortfolioHeader />
-  <div class="wrapper">
-    <RouterView />
+  <div class="bg-black min-h-screen flex flex-col">
+    <PortfolioHeader />
+    <div class="flex-1">
+      <RouterView />
+    </div>
+    <PortfolioFooter />
   </div>
-  <PortfolioFooter />
 </template>
 
 <style scoped>
-.wrapper {
-  height: 100vh;
-  width: auto;
+:deep(html, body) {
+  background-color: #000;
 }
 </style>
