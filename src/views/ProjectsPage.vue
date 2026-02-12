@@ -19,14 +19,15 @@
             <div class="text-6xl">🚀</div>
           </div>
           <div class="p-6">
-            <h3 class="text-xl font-bold text-white mb-2">E-Commerce Platform</h3>
-            <p class="text-gray-400 text-sm mb-4">
-              A full-stack e-commerce platform with real-time inventory management,
-              payment processing, and analytics dashboard.
+            <h3 class="text-xl font-bold text-white pb-2">BEIRS - Barangay E-Blotter and Incident Reporting System </h3>
+            <p class="text-gray-400 text-sm pb-4">
+              A full-stack barangay scope electronic blotter system with real-time in-app & SMS notification,role based
+              authentication
+              and authorization, barangay certificate request processing, pdf preview generation and analytic dashboard
             </p>
             <div class="flex flex-wrap gap-2">
               <span class="inline-block bg-green-500/20 text-green-400 text-xs px-3 py-1 rounded-full">Vue.js</span>
-              <span class="inline-block bg-blue-500/20 text-blue-400 text-xs px-3 py-1 rounded-full">Node.js</span>
+              <span class="inline-block bg-blue-500/20 text-red-400 text-xs px-3 py-1 rounded-full">Laravel API</span>
               <span
                 class="inline-block bg-purple-500/20 text-purple-400 text-xs px-3 py-1 rounded-full">PostgreSQL</span>
             </div>
@@ -41,21 +42,25 @@
             <div class="text-6xl">📊</div>
           </div>
           <div class="p-6">
-            <h3 class="text-xl font-bold text-white mb-2">Analytics Dashboard</h3>
-            <p class="text-gray-400 text-sm mb-4">
-              Interactive data visualization dashboard with real-time metrics,
-              custom reports, and exportable insights.
+            <h3 class="text-xl font-bold text-white pb-2">Simbnb - Airbnb Clone App</h3>
+            <p class="text-gray-400 text-sm pb-4">
+              Full-featured accommodation rental platform with intuitive property browsing, seamless reservation
+              management,
+              trip itinerary tracking, and peer review system. Includes detailed property information display with
+              ratings and user feedback.
             </p>
             <div class="flex flex-wrap gap-2">
-              <span class="inline-block bg-green-500/20 text-green-400 text-xs px-3 py-1 rounded-full">React</span>
-              <span class="inline-block bg-blue-500/20 text-blue-400 text-xs px-3 py-1 rounded-full">Python</span>
-              <span class="inline-block bg-purple-500/20 text-purple-400 text-xs px-3 py-1 rounded-full">MongoDB</span>
+              <span class="inline-block bg-green-500/20 text-green-400 text-xs px-3 py-1 rounded-full">Ruby</span>
+              <span class="inline-block bg-blue-500/20 text-red-400 text-xs px-3 py-1 rounded-full">Ruby on
+                Rails</span>
+              <span class="inline-block bg-purple-500/20 text-purple-400 text-xs px-3 py-1 rounded-full">MySQL</span>
+              <span class="inline-block bg-blue-500/20 text-blue-400 text-xs px-3 py-1 rounded-full">Docker</span>
             </div>
           </div>
         </div>
 
         <!-- Project 3 -->
-        <div
+        <!-- <div
           class="group bg-white/5 border border-white/10 rounded-lg overflow-hidden hover:border-green-500/50 transition-all duration-300 hover:shadow-lg hover:shadow-green-500/10">
           <div
             class="h-48 bg-gradient-to-br from-green-500/10 to-blue-500/10 flex items-center justify-center border-b border-white/10">
@@ -73,10 +78,10 @@
               <span class="inline-block bg-purple-500/20 text-purple-400 text-xs px-3 py-1 rounded-full">Tailwind</span>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <!-- Project 4 -->
-        <div
+        <!-- <div
           class="group bg-white/5 border border-white/10 rounded-lg overflow-hidden hover:border-green-500/50 transition-all duration-300 hover:shadow-lg hover:shadow-green-500/10">
           <div
             class="h-48 bg-gradient-to-br from-green-500/10 to-blue-500/10 flex items-center justify-center border-b border-white/10">
@@ -94,7 +99,7 @@
               <span class="inline-block bg-purple-500/20 text-purple-400 text-xs px-3 py-1 rounded-full">Express</span>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>

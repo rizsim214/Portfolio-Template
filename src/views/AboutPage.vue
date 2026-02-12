@@ -12,7 +12,7 @@
       <!-- About content -->
       <div class="space-y-8">
         <div class="bg-white/5 border border-white/10 rounded-lg p-8">
-          <h2 class="text-2xl font-bold text-white mb-4">Senior Software Engineer</h2>
+          <h2 class="text-2xl font-bold text-white mb-4">Software Engineer</h2>
           <p class="text-gray-300 leading-relaxed mb-4">
             With 3+ years of professional experience in software development, I have honed my skills
             in building scalable, maintainable web applications using modern technologies and best practices.
@@ -33,7 +33,7 @@
             </div>
             <div class="bg-white/5 border border-white/10 rounded-lg p-6 hover:bg-white/10 transition-colors">
               <h3 class="text-lg font-semibold text-green-400 mb-3">Backend Development</h3>
-              <p class="text-gray-400 text-sm">Ruby, PHP, Java, MySQL, PostgreSQL, MongoDB, API Design</p>
+              <p class="text-gray-400 text-sm">Ruby, PHP, Java, MySQL, PostgreSQL, MongoDB</p>
             </div>
             <div class="bg-white/5 border border-white/10 rounded-lg p-6 hover:bg-white/10 transition-colors">
               <h3 class="text-lg font-semibold text-green-400 mb-3">DevOps & Cloud</h3>
@@ -41,7 +41,7 @@
             </div>
             <div class="bg-white/5 border border-white/10 rounded-lg p-6 hover:bg-white/10 transition-colors">
               <h3 class="text-lg font-semibold text-green-400 mb-3">Tools & Practices</h3>
-              <p class="text-gray-400 text-sm">Git, Testing, Code Review, Agile Methodologies</p>
+              <p class="text-gray-400 text-sm">Git, , Code Review, Agile Methodologies, RESTful API</p>
             </div>
           </div>
         </div>
@@ -52,7 +52,7 @@
           <div class="space-y-8">
             <div class="border-l-4 border-green-500 pl-6">
               <h3 class="text-xl font-bold text-white">Software Engineer</h3>
-              <div class="flex flex-col mb-2">
+              <div class="flex flex-col pb-1">
                 <small class="text-green-400 font-medium text-md">SeedTech Philippines Inc.</small>
                 <p class="text-gray-500 text-sm italic">2022 — Present</p>
               </div>
@@ -62,11 +62,11 @@
               </p>
             </div>
 
-            <div class="border-l-4 border-green-500 pl-6">
-              <h3 class="text-xl font-bold text-white">Junior Developer</h3>
-              <div class="flex flex-col mb-2">
+            <div class="border-l-4 border-green-500 pl-6 pt-3">
+              <h3 class="text-xl font-bold text-white">Software Engineer</h3>
+              <div class="flex flex-col pb-1">
                 <small class="text-green-400 font-medium text-md">NexSeed Inc.</small>
-                <p class="text-gray-500 text-sm italic">2022 — 2022</p>
+                <p class="text-gray-500 text-sm italic">2022</p>
               </div>
               <p class="text-gray-300 leading-relaxed">
                 Accelerated the delivery of responsive web features and collaborated in an agile environment to maintain

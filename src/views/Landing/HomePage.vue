@@ -50,19 +50,23 @@ const profileName = ref('Riz Michael Sim')
           <div class="grid grid-cols-2 sm:grid-cols-3 gap-4 pt-3">
             <div
               class="bg-white/5 hover:bg-white/10 transition-colors rounded-lg p-4 flex items-center justify-center h-24 border border-white/10">
-              <span class="text-gray-400 text-sm font-medium">PHP</span>
+              <span class="text-gray-400 text-sm font-medium">PHP LARAVEL API</span>
             </div>
             <div
               class="bg-white/5 hover:bg-white/10 transition-colors rounded-lg p-4 flex items-center justify-center h-24 border border-white/10">
-              <span class="text-gray-400 text-sm font-medium">JAVA</span>
+              <span class="text-gray-400 text-sm font-medium">JAVA SPRINGBOOT</span>
             </div>
             <div
               class="bg-white/5 hover:bg-white/10 transition-colors rounded-lg p-4 flex items-center justify-center h-24 border border-white/10">
-              <span class="text-gray-400 text-sm font-medium">JAVASCRIPT</span>
+              <span class="text-gray-400 text-sm font-medium">JS FRAMEWORKS</span>
             </div>
             <div
               class="bg-white/5 hover:bg-white/10 transition-colors rounded-lg p-4 flex items-center justify-center h-24 border border-white/10">
-              <span class="text-gray-400 text-sm font-medium">RUBY</span>
+              <span class="text-gray-400 text-sm font-medium">RUBY ON RAILS</span>
+            </div>
+            <div
+              class="bg-white/5 hover:bg-white/10 transition-colors rounded-lg p-4 flex items-center justify-center h-24 border border-white/10">
+              <span class="text-gray-400 text-sm font-medium">MULESOFT API</span>
             </div>
           </div>
         </div>
