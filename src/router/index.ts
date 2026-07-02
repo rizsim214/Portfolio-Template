@@ -1,4 +1,4 @@
-import HomePage from '@/views/Landing/HomePage.vue'
+import HomePage from '@/views/HomePage.vue'
 import AboutPage from '@/views/AboutPage.vue'
 import ProjectsPage from '@/views/ProjectsPage.vue'
 import ContactPage from '@/views/ContactPage.vue'
