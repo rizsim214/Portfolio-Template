@@ -1,6 +1,6 @@
 import { ref } from 'vue'
 
-const recipientEmail = import.meta.env.VITE_CONTACT_EMAIL
+const recipientEmail = import.meta.env.VITE_FORMSUBMIT_ENDPOINT
 
 export function useContactForm() {
   const formData = ref({
