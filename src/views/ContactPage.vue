@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { useContactForm } from '@/composables/useContactForm'
 
+const emailAddress = import.meta.env.VITE_CONTACT_EMAIL
 const { formData, handleSubmit, isSubmitting, recipientEmail, submitted, submitError } = useContactForm()
 </script>
 
@@ -20,9 +21,9 @@ const { formData, handleSubmit, isSubmitting, recipientEmail, submitted, submitE
           <div class="flex flex-col gap-y-6">
             <div class="bg-white/5 border border-white/10 rounded-lg p-6">
               <h3 class="text-lg font-semibold text-green-400 mb-2">Email</h3>
-              <a :href="`mailto:${recipientEmail}`" class="text-gray-300 hover:text-white transition-colors">
-                {{ recipientEmail }}
-              </a>
+              <p class="text-gray-300 hover:text-white transition-colors">
+                {{ emailAddress }}
+              </p>
             </div>
             <div class="bg-white/5 border border-white/10 rounded-lg p-6">
               <h3 class="text-lg font-semibold text-green-400 mb-2">Location</h3>
